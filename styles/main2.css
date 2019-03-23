@@ -1,0 +1,17 @@
+#main-heading{
+    color:red;
+}
+div{
+    float: right;
+}
+p{
+clear: both;
+}
+span{
+    font-weight: bold;
+}
+.span1{
+    font-style: italic;
+    color:yellow;
+
+}
